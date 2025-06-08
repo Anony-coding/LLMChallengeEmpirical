@@ -1,0 +1,12 @@
+https://gitee.com/ascend/MindSpeed/issues/IBZ414
+https://gitee.com/ascend/MindSpeed/issues/IBY945
+https://gitee.com/ascend/MindSpeed/issues/IBX3GM
+https://gitee.com/ascend/MindSpeed/issues/IBWXBX
+https://gitee.com/ascend/MindSpeed/issues/IBVEV6
+https://gitee.com/ascend/MindSpeed/issues/IBU3B8
+https://gitee.com/ascend/MindSpeed/issues/IBRP1H
+https://gitee.com/ascend/MindSpeed/issues/IBPMEM
+https://gitee.com/ascend/MindSpeed/issues/IBNUFY
+https://gitee.com/ascend/MindSpeed/issues/IBI579
+https://gitee.com/ascend/MindSpeed/issues/IBFIHW
+https://gitee.com/ascend/MindSpeed/issues/IBF66Q

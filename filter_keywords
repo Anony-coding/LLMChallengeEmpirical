@@ -1,0 +1,48 @@
+tensorflow_keywords = [
+  'llm', 'langchain', 'llama', 'chromadb', 'finetuning', 'mistral', 'peft', 'few shot',
+  'pinecone', 'gpt', 'transformer', 'langsmith', 'baichuan', 'text generationglm', 'qwen',
+  'deepseek', 'yi', 'pangu', 'mixtral', 'llava', 'grok', 'opensora', 'vlm',
+  'large language model', 'BERT', 'T5', 'LLM', 'GPT', 'ChatGPT', 'BLOOM', 'OPT',
+  'encoder-decoder', 'seq2seq', 'long sequence', 'billion parameters',
+  'quantization', 'int8', 'bfloat16', 'fp16', 'TPU', 'XLA compile',
+  'multi-GPU', 'TPU training', 'sharding', 'data parallel', 'model parallel',
+  'TensorRT', 'TF-TRT', 'KerasNLP', 'long context',
+  'ul2', 'flan-ul2', 'flan-t5-xl', 'flan-t5-xxl', 'mt5-xxl', 't5-11b', 'bert-large', 'gpt2-xl',
+  'xlnet-large', 'bigbird', 'gpt-j', 'gpt-neox', 'gemma-7b',
+  'gradient checkpointing', 'mixed precision', 'remat', 'pipeline parallelism', 'model sharding',
+  'activation offloading', 'fsdp', 'lora',"paxml","jit_compile","parameter_efficiency"
+]
+
+
+mindspore_keywords = [
+  'llm', 'langchain', 'llama', 'chromadb', 'finetuning', 'mistral', 'peft', 'few shot', 'pinecone', 'gpt',
+  'transformer', 'anthropic', 'gemma', 'langsmith', 'baichuan', 'text generationglm', 'qwen', 'deepseek', 'yi',
+  'pangu', 'mixtral', 'llava', 'grok', 'opensora', 'vlm', 'large language model', 'LLM', 'GPT', 'BERT',
+  'BLOOM', 'ChatGLM', 'ZhipuAI', 'rotary embedding', 'FlashAttention', 'Pangu-alpha', 'long sequence',
+  'billion parameters', 'float16', 'bfloat16', 'int8 quant', 'ParallelMode', 'auto_parallel', 'model parallel',
+  'data parallel', 'sharding', 'mindspore.communication', 'allreduce', 'allgather', 'Ascend',
+  'MindFormers', 'MindCV', 'MindData', 'MindNLP', 'MindSpore Lite', 'MindIR',
+  'runtime error', 'compile failure', 'HCCL error', 'checkpoint loading failed',
+  'tokenizer error', 'graph mode',
+  'quantization', 'fp16', 'bfloat16', 'long context', 'seq2seq', 'encoder-decoder',
+  'MoE', 'Ascend910B', 'MindSpore Parallel', 'ZeRO', 'dynamic shape', 'attention_mask',
+  'LoRA', 'MindSpore Hub', 'Recompute', 'AutoCast', 'graph load fail', "mindspore.export", "modelarts", "group_parallel", "optimizer_shard", "AscendCL", "AutoTokenizer", "SelfAttention"
+]
+
+
+
+pytorch_keywords = [
+  'llm', 'langchain', 'llama', 'chromadb', 'finetuning', 'mistral', 'peft', 'few shot', 'pinecone', 'gpt',
+  'transformer', 'anthropic', 'gemma', 'langsmith', 'baichuan', 'text generationglm', 'qwen', 'deepseek', 'yi',
+  'pangu', 'mixtral', 'llava', 'grok', 'opensora', 'vlm', 'large language model', 'transformer', 'LLM', 'GPT',
+  'BERT', 'LLaMA', 'BLOOM', 'OPT', 'ChatGPT', 'HuggingFace', 'transformers', 'Megatron', 'DeepSpeed', 'vLLM',
+  'FlashAttention', 'FSDP', 'LoRA', 'QLoRA', 'rotary embedding', 'gradient checkpointing',
+  'fp16', 'bf16', 'quantization', 'int8', 'mixed precision', 'torch.distributed', 'pipeline parallel',
+  'tensor parallel', 'model parallel', 'torchrun', 'allreduce', 'NCCL error', 'Triton kernel',
+  'Megatron', 'transformers', 'DeepSpeed', 'vLLM', 'FSDP', 'LoRA', 'QLoRA', 'gradient checkpointing',
+  'mixed precision', 'quantization', 'tensor parallel', 'pipeline parallel', 'torchrun',"AutoModelForSeq2SeqLM","torch.compile","ZeroRedundancyOptimizer","model.generate","Exllama","vLLM engine","transformer decoder","torch.utils.checkpoint","peft_config.json","flash_attn_2","triton kernel","load_in_4bit","tokenizer.decode","huggingface_hub","hf_accelerate"
+]
+
+
+
+
